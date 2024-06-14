@@ -1,0 +1,1 @@
+Projeto simples utilizando html, css e javascript. Com a ajuda de uma API de previsão do tempo.
